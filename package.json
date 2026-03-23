@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AnirudhAiysola/Coding-Interview-Video-Service/issues"
   },
-  "homepage": "https://github.com/AnirudhAiysola/Coding-Interview-Video-Service#readme"
+  "homepage": "https://github.com/AnirudhAiysola/Coding-Interview-Video-Service#readme",
+  "dependencies": {
+    "@stream-io/node-sdk": "^0.7.12"
+  }
 }
