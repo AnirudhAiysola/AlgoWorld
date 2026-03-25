@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/AnirudhAiysola/Coding-Interview-Video-Service.git"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
